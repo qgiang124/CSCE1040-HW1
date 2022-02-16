@@ -1,9 +1,8 @@
-//
-//  main.cpp
-//  HW1
-//
-//  Created by Giang Tran on 2/16/22.
-//
+/* Author:      Giang Tran (giangtran2@my.unt.edu)
+ *
+ *
+ *
+ */
 
 #include <iostream>
 
