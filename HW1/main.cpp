@@ -4,6 +4,10 @@
  *
  */
 
+//#include <stdio.h>
+#include <stdlib.h>
+#include "student.h"
+#include "bubble.h"
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
