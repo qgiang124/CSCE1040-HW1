@@ -45,8 +45,8 @@ int main() {
         fscanf(inFile, "%d %d %d", &studentList[i]->exam1, &studentList[i]->exam2, &studentList[i]->exam3);
 //        *studentList++;
 //
-//        printf("%s %s", studentList[i].first, studentList[i].last);
-//        printf("%d %d %d \n", studentList[i].exam1, studentList[i].exam2, studentList[i].exam3);
+        printf("%s %s", studentList[i]->first, studentList[i]->last);
+        printf("%d %d %d \n", studentList[i]->exam1, studentList[i]->exam2, studentList[i]->exam3);
     }
     
     fclose(inFile);
