@@ -1,7 +1,7 @@
 /* Author:      Giang Tran (giangtran2@my.unt.edu)
  * Date:        02/20/2022
  * Instructor:  Dr. Rubenia Borge
- * Description:
+ * Description: The program uses two data structures to read in student grade data, perform some calculations, sort the students in ascending order by average, determine some class statistics, and output the results.
  */
 
 #include <stdio.h>
